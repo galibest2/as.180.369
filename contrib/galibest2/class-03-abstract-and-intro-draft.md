@@ -1,16 +1,14 @@
 # Abstract
 
-As immigration policies grow with the nation and its political landscape, many narratives are presented to the media regarding the impact immigrants have on native-born workers. Through this paper, I hope to focus on the impact of immigration on labor force participation and see how the real-world impacts vary from those predicted based on theory. Furthermore, I aim to track media coverage regarding immigration policy and note if any changes in labor participation, or deviation from economic theory, could be attributed to media coverage. 
+This paper explores the relationship between immigration policies, media coverage, and fluctuations in native-born labor force participation. With a focus on real-world examples, I aim to showcase how reality deviates from economic theory and whether media coverage drives these deviations.
 
-To ensure an analysis that is representative of the nuances within immigration policy, I plan to classify the interactions between native-born workers and immigrants in the following ways: immigrants are high-skilled complements, immigrants are low-skilled complements, immigrants are high-skilled substitutes, and immigrants are low-skilled substitutes.
+To ensure a robust analysis, various combinations of high or low-skilled, and substitution or complementary immigration examples will be researched.
 
-As my paper progresses, I hope to establish immigration’s impact on native-born workers ranging from unemployment to discouragement based on the works of Ríos‐Avila (Ríos‐Avila, 2016). Furthermore, I hope to highlight trends surrounding native internal migration as noted by Borjas and Card (Borjas, 2021) (Card, 2001). Following this, I hope to take inspiration from Scheve and establish core differences between theory and literature regarding labor-market competition and immigration policy (Scheve, 2001). Finally, I hope to look at the case study surrounding the effect of the Mariel Boatlift as researched by Card (Card, 1990). 
+Drawing on existing literature, the paper examines immigration’s impact on native-born unemployment and discouragement, referencing the work of Ríos‐Avila (Ríos‐Avila, 2016). Additionally, the paper shall highlight trends surrounding native internal migration as noted by Borjas and Card (Borjas, 2021) (Card, 2001). Following this, an exploration of Scheve's work will note core deviations from real-world results and theory (Scheve, 2001). The Mariel Boatlift case study, as researched by Card, will also be further examined (Card, 1990). 
 
-After a comprehensive review of existing literature, I hope to introduce a model, inspired by Dustmann, to display the labor market impact of immigration (Dustmann, 2008). 
+A model, inspired by Dustmann, will be used to examine the labor market impact of immigration (Dustmann, 2008). 
 
-Based on my personal beliefs surrounding bias and echo chambers, I hypothesize that deviations from economic theory will align with moments where media coverage surrounding immigration was predominantly negative. This prediction is made under the assumption that media can heavily influence public sentiment and, subsequently, labor market dynamics. In recognizing that finding a trend between media and labor market dynamics may be difficult, a higher-level hypothesis would be that immigrants will offer an initial shock of disincentivizing the domestic workforce until the labor market recalibrates.
-
-I hope that this paper can contribute to more nuanced discussions on immigration by highlighting the diversity among immigrant types, their economic impacts, and the impact of media coverage.
+I hypothesize that deviations from economic theory will align with moments where related media coverage was predominantly negative. This paper was produced with the hopes that it can contribute to more nuanced discussions regarding immigration.
 
 
 # Introduction
