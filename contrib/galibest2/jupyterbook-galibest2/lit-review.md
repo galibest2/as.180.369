@@ -120,6 +120,28 @@ childhood and adulthood about the personal limitations and costs of immigrants. 
 
 I would love to analyze how the diversity of news reporting has changed over the years and how polarization may have impacted attitudes toward immigration and immigration policy. As a consequence of this I would like to see how this relates to individuals growing more discouraged and the labor force participation rates of states with similar demographic views.
 
+### Haaland (2020) *Labor market concerns and support for immigration*
+
+**Main Takeaways:**
+
+Study whether labor market concerns affect support for immigration. Treated respondents receive evidence on the labor market effects of immigration. Respondents who receive the research evidence become more supportive of immigration. The effects of the research evidence persist in an obfuscated follow-up study.
+
+**Paper Connection:**
+
+Showcases how labor market opinions directly impacted by opinions
+
+
+### Ottaviano (2012) *Rethinking the Effect of Immigration on Wages*
+
+**Main Takeaways:**
+
+A new contribution is the estimate of substitutability between natives and immigrants with similar education and experience.
+The data-preferred model finds a small but significant degree of imperfect substitutability between native and immigrant workers.
+Combining the estimated elasticities, the paper finds that from 1990-2006 immigration had: A small effect on wages of natives with no high school degree (between 0.6% and +1.7%) A small positive effect on average native wages (+0.6%) A substantial negative effect on wages of previous immigrants (-6.7%) in the long run.
+
+**Paper Connection:**
+
+Builds and quantifies aspects of mariel boatlift
 
 ## Media and Immigration Perception
 
