@@ -143,6 +143,29 @@ Combining the estimated elasticities, the paper finds that from 1990-2006 immigr
 
 Builds and quantifies aspects of mariel boatlift
 
+### Kerr (2011) *Economic Impacts of Immigration: A Survey*
+
+**Main Takeaways:**
+
+The likelihood and magnitude of adverse labor market effects for natives from immigration are substantially weaker than often perceived. Within the large empirical literature looking at the effects of immigration on native employment and wages, most studies find only minor displacement effects even after very large immigrant flows. On the other hand, some more recent studies have found larger effects, and many studies note that the negative effects are concentrated on certain parts of the native population. The parts of the population most typically affected are the less-educated natives or the earlier immigrant cohorts— that is, those who are the closest substitutes to the new immigrant flow currently experienced by Europe.
+
+Most empirical studies, however, estimate the fiscal impacts of immigration to be very small. There certainly exist large differences across migrant groups in the costs and benefits they cause for a host country; the net impact depends heavily on the migrant’s age, education, and duration of stay. On average, immigrants appear to have a minor positive net fiscal effect for host countries. Of course, these benefits are not uniformly distributed across the native population and sectors of the economy
+
+**Paper Connection:**
+
+The real impact of immigrants
+
+### Gaston (2013) *BRIDGING TRADE THEORY AND LABOUR ECONOMETRICS: THE EFFECTS OF INTERNATIONAL MIGRATION*
+
+**Main Takeaways**
+
+Overall, we argue that the political economy of immigration policy cannot be understood as being about labour market effects. What is required is a broader understanding of the politics of the welfare state  and  cultural  adjustment  to  change.  In  terms  of  the  political  economy,  there  appears  to  be  a strong link between poor macroeconomic circumstances, hardening attitudes towards immigrants and the attractiveness of restrictive policies. The politics of immigration is unlike the politics of trade (with its  implied  negotiability).  Rather  than  the  pure  economic  self-interest  of  identifiable  groups,  public attitudes play an important role in setting the terms of the politics of immigration. In seems to us that the debate over immigration will remain highly contestable into the future
+
+**Paper Connection:**
+
+Highlights the nuance of the conversation and the potential limitations of current conversations
+
+
 ## Media and Immigration Perception
 
 ### Sadler (2021) *A qualitative contextual analysis of U.S. immigration coverage by media during the Obama and Trump presidencies*
