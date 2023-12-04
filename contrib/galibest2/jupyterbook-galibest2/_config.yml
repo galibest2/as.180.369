@@ -1,0 +1,13 @@
+# ref: https://jupyterbook.org/en/stable/customize/config.html
+
+title: "Perception and Participation: An analysis of immigration media coverage's impact on labor force participation"
+author: Galilee Best
+execute:
+  execute_notebooks: force
+
+bibtex_bibfiles: 'ppT2ref.bib'
+
+sphinx:
+  config:
+    bibtex_reference_style: author_year
+    
